@@ -1,4 +1,4 @@
-"# gif_m" 
+# gif_m 
 
 Script for creating GIFs from the provided images. Need Pillow to work.
 It is important to provide pictures with the same name, adding an index at the end.
